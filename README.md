@@ -1,4 +1,4 @@
-# picgo-uploads
+# picgo-uploads for typora
 
 
 Install:
